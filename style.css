@@ -1,0 +1,13 @@
+/* Reset defaults */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: light;
+}
+
+#app-title {
+    background-color: blue;
+    color: white;
+}
