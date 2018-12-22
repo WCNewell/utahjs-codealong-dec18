@@ -1,3 +1,3 @@
 # UtahJS Learner's Group Dec. 2018 - SLC
 
-This was a quick code-along during the monthly learner's group meeting. It was very encouraging how easily I was able to keep up, plus answer many of the presenter's questions. I'm nowhere near as awesome as I want and need to be, but I take solace in the fact that one year ago today, I had only been at Galvanize for 2 weeks and this simple app and three tiny pages of code would have blown my mind.
+This was a quick code-along during the monthly learner's group meeting. It was very encouraging how easily I was able to keep up, plus answer many of the presenter's questions when he asked participants what should come next. I'm nowhere near as awesome as I want and need to be, but I take solace in the fact that one year ago today, I had only been at Galvanize for 2 weeks and this simple app and three tiny pages of code would have blown my mind. Now I understand every aspect of this code and what it's doing.
